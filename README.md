@@ -1,5 +1,7 @@
 # Use Case: IDE / Coding Copilots
 
+**YouTube walkthrough:** [Ide Coding Copilots — System Design #Shorts](https://youtu.be/yrnlXPTfb8A)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -48,6 +50,9 @@ Reuse sequenced events; optimize for **short generations** and **extreme cancel 
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Ide Coding Copilots — System Design #Shorts](https://youtu.be/yrnlXPTfb8A)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
