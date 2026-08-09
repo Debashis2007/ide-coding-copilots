@@ -7,7 +7,7 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [02 — Streaming Token Delivery](../02-streaming-token-delivery.md)
+**Parent system design:** [02 — Streaming Token Delivery](./02-streaming-token-delivery.md)
 
 ## Users & problem
 
@@ -20,7 +20,7 @@ Developers get inline completions and chat-in-editor. They accept partial result
 | Inline latency | Very low TTFT for short completions |
 | Cancel rate | High; cheap abort |
 | Partial accept | Client may keep prefix; server stops |
-| Context | File/repo context; often RAG ([04](../04-rag-embedding-pipeline.md)) |
+| Context | File/repo context; often RAG ([04](./04-rag-embedding-pipeline.md)) |
 
 ## Design (from parent)
 
