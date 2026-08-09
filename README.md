@@ -75,3 +75,10 @@ curl -s http://127.0.0.1:8000/health | jq
 ```
 
 curl -s -X POST http://127.0.0.1:8000/complete -H 'Content-Type: application/json' -d '{"prefix":"def add(","buffer_version":1}' | jq
+
+---
+
+**Copyright (c) 2026 Debashis Bhattacharjee. All Rights Reserved.**  
+Unauthorized copying or redistribution of this material is prohibited.  
+GitHub: [Debashis2007](https://github.com/Debashis2007)
+
